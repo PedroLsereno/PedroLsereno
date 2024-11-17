@@ -3,7 +3,27 @@
 Me chamo Pedro Luiz Zanfra Sereno, tenho 23 anos e sou do Rio Grande do Sul. Atualmente, estou cursando Engenharia de Software na UNIJUÍ.
 
 <p align="center">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/PedroLsereno?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/PedroLsereno?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/PedroLsereno?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/PedroLsereno?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+### 📱 Redes Sociais
+
+<p align="left">
+    <a href="https://github.com/PedroLsereno?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -78,5 +98,3 @@ Me chamo Pedro Luiz Zanfra Sereno, tenho 23 anos e sou do Rio Grande do Sul. Atu
   />
 
 </p>
-
-
