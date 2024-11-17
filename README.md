@@ -23,18 +23,18 @@ Me chamo Pedro Luiz Zanfra Sereno, tenho 23 anos e sou do Rio Grande do Sul. Atu
 ### 📱 Redes Sociais
 
 <p align="left">
-    <a href="https://github.com/PedroLsereno?tab=repositories&sort=stargazers">
+    <a href="https://www.instagram.com/pedrol_zs/">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/PedroLsereno?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Instagram" 
+            title="Segue a gente lá" 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="https://github.com/PedroLsereno?tab=followers">
+    <a href="">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/PedroLsereno?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Linkedin" 
+            title="Faça uma conexão" 
+            src="https://img.shields.io/badge/LinkedIn-1135ba?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
