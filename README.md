@@ -1,4 +1,5 @@
 # 👨‍💻 Pedro Sereno
+`Desenvolvedor Java`
 
 Me chamo Pedro Luiz Zanfra Sereno, tenho 23 anos e sou do Rio Grande do Sul. Atualmente, estou cursando Engenharia de Software na UNIJUÍ.
 
