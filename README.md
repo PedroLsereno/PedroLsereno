@@ -32,6 +32,13 @@ Me chamo Pedro Luiz Zanfra Sereno, tenho 23 anos e sou do Rio Grande do Sul. Atu
     </a>
     <a href="">
         <img 
+            alt="Youtube" 
+            title="Subscribe" 
+            src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+        />
+    </a>
+    <a href="">
+        <img 
             alt="Linkedin" 
             title="Faça uma conexão" 
             src="https://img.shields.io/badge/LinkedIn-1135ba?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -42,7 +49,22 @@ Me chamo Pedro Luiz Zanfra Sereno, tenho 23 anos e sou do Rio Grande do Sul. Atu
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
+<img 
+    align="left" 
+    alt="JAVA"
+    title="JAVA" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 <img 
     align="left" 
     alt="HTML"
@@ -67,14 +89,7 @@ Me chamo Pedro Luiz Zanfra Sereno, tenho 23 anos e sou do Rio Grande do Sul. Atu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+
 
 <br/>
 <br/>
@@ -98,3 +113,4 @@ Me chamo Pedro Luiz Zanfra Sereno, tenho 23 anos e sou do Rio Grande do Sul. Atu
   />
 
 </p>
+
