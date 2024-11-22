@@ -38,7 +38,7 @@ Me chamo Pedro Luiz Zanfra Sereno, tenho 23 anos e sou do Rio Grande do Sul. Atu
             src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
         />
     </a>
-    <a href="">
+    <a href="www.linkedin.com/in/pedro-sereno-854046337">
         <img 
             alt="Linkedin" 
             title="Faça uma conexão" 
